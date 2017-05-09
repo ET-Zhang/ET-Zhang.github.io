@@ -1,25 +1,28 @@
-# Site settings
-# in the templates available like {{ site.myvariable }}.
-title: ET-Zhang
-email: 13671256372@163.com
-brand: Your Name
-headline: ET-Zhang, web
-description: > # this means to ignore newlines until "baseurl:"
-  New Site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://zhangyingjie.me" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+title: John Smith
+description: My Personal Blog
+author: John Smith
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/codeasashu
+about: Freelance developer
 
-# Build settings
+baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
+url: "https://codeasashu.github.io/hcz-jekyll-blog"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
 markdown: kramdown
-
-# Account ids
-snapwidget: 247552
-
-# Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
-
-# Tracking
-googleAnalitycsID: UA-83933844-1
-
+gems: [jekyll-paginate, jekyll-gist]
