@@ -1,15 +1,25 @@
 # Site settings
+# in the templates available like {{ site.myvariable }}.
 title: ET-Zhang
-email: your-email@domain.com
+email: 13671256372@163.com
+brand: Your Name
+headline: ET-Zhang, web
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
-baseurl: "/clean" # the subpath of your site, e.g. /blog/
-url: "http://zhangyingjie.me/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  New Site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://zhangyingjie.me" # the base hostname & protocol for your site
+copyright: 2016 Whatever Company, Inc. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
 
-# theme: jekyll-theme-architect
+# Account ids
+snapwidget: 247552
+
+# Contacts
+email: your.name@gmail.com
+phone: +1-800-555-2016
+
+# Tracking
+googleAnalitycsID: UA-83933844-1
+
