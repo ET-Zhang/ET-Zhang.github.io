@@ -10,17 +10,17 @@
 #   name: mazhuang
 #   url: https://www.linkedin.com/in/mazhuang
 
-# - sitename: 博客
-#   name: 码志
-#   url: http://mazhuang.org
+- sitename: 博客
+  name: ET-Zhang
+  # url: http://mazhuang.org
 
-# - sitename: 微博
-#   name: mzlogin
-#   url: http://weibo.com/mzlogin
+- sitename: 微博
+  name: 波特张y 
+  url: http://weibo.com/u/5135749974
 
-# - sitename: 知乎
-#   name: mzlogin
-#   url: http://www.zhihu.com/people/mzlogin
+- sitename: 知乎
+  name: qwer
+  url: http://www.zhihu.com/people/qwer-52-37
 
 # - sitename: 豆瓣
 #   name: 壮哥不胖
