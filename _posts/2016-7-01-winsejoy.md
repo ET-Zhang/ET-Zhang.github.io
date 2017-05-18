@@ -1,6 +1,6 @@
 ---
 layout: post
-title: wisenjoy
+title: wisenjoy——M站
 categories: Company
 description: 新的公司，新的流程，新的开始
 keywords: wisenjoy, 中家卓智
@@ -80,4 +80,4 @@ keywords: wisenjoy, 中家卓智
 
 	})(window);
 	```
-> 期待
+> 终于完成，感谢我们的产品经理（强哥），是他告诉了我自古套路得人心，也是他让我提前转正，也是他告诉了我QQ截图还有这么一个功能，就是我直接把这个网站一部分的截屏下来，然后直接贴到ps的设计图上，然后设置透明度为10%，就可以很明显的看到哪里出现了误差，自古套路得人心啊，感谢。是他教会了我怎么认真对事。
