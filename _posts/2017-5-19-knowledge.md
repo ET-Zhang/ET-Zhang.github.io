@@ -92,29 +92,35 @@ keywords: knowledge, javaScript
   收集所有变量和函数，并将它们提升到执行上下文的顶部。
 
   每个执行上下还会创建它自己的variables对象。这个对象包含了改执行上下文中所有变量、函数和参数的细节。
- ```  
- var greeting = greetUser();
- function greetUser(){
 
- };
- ```  
+  
+	 ```
+	 var greeting = greetUser();
+	 function greetUser(){
+
+	 };
+	 ```
+
  它能正常的执行，因为该函数和第一条语句位于同一个执行上下文中，所以，它会被解析成：
- ```
- function greetUser(){
 
- }
- var greeting = greetUser();
- ```
+	 ```
+	 function greetUser(){
+
+	 }
+	 var greeting = greetUser();
+	 ```
 
   下面这个代码则会出错，因为greetUser()是在getName()函数的上下文中创建的
-  ```
-   var greeting = greetUser();
-   function getName(){
-		function geetUser(){
 
-		}
-   }
-  ```
+	  ```
+	   var greeting = greetUser();
+	   function getName(){
+			function geetUser(){
+
+			}
+	   }
+	  ```
+
 * Hoisting
 
 	变量的提升，顾名思义，就是把下面的东西提到上面。
