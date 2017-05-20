@@ -1,6 +1,6 @@
 ---
 layout: post
-title: knowledge-01
+title: knowledge-函数
 categories: knowledge
 description: Knowledge changes destiny
 keywords: knowledge, javaScript
@@ -209,4 +209,4 @@ keywords: knowledge, javaScript
 ```
 
 
-> 期待
+> 充实自己，使自己成为你想成为的人
