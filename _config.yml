@@ -95,5 +95,5 @@ comments_provider: netease_gentie
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-# google:
-#     analytics_id: UA-80669434-1
+google:
+    analytics_id: UA-99589156-1
