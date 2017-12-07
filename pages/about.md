@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 只有坚持的人活了下去
+description: 有梦想，也有面包。知道自己是谁，要去何方。我希望是生活着，而非只是生存。
 keywords: ET-Zhang
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-只有坚持的人活了下去
+有梦想，也有面包。知道自己是谁，要去何方。我希望是生活着，而非只是生存。
 
 ## 联系
 
